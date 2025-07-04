@@ -1,0 +1,14 @@
+# Eclipse IDE files
+.classpath
+.project
+.settings/
+
+# Maven build output
+target/
+
+# Logs
+*.log
+*.txt
+
+# Test output folders (optional)
+test-output/
